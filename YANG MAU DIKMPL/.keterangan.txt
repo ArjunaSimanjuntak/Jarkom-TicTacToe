@@ -1,0 +1,11 @@
+Kelompok
+Arjuna Simanjuntak 	2017730057
+Jeremy Willy T 		2017730059
+
+Tahapan eksekusi:
+- klik server.bat (jalankan server)
+- klik client.bat (jalankan klien)
+*akan tersambung*
+- mainkan tictactoe seperti biasa
+- akan tertampil X/O yang 'wins!' pada window cmd pihak server (bila server yang menang) atau klien.
+- 
