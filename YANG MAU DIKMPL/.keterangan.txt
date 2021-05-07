@@ -8,4 +8,5 @@ Tahapan eksekusi:
 *akan tersambung*
 - mainkan tictactoe seperti biasa
 - akan tertampil X/O yang 'wins!' pada window cmd pihak server (bila server yang menang) atau klien.
-- 
+- Untuk bermain kembali, tekan Spasi untuk clear window tictactoe
+- Jika tidak ingin bermain kembali, tekan tombol Close pada window tictactoe
